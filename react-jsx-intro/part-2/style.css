@@ -1,0 +1,26 @@
+/* Styling for each tweet */
+.tweet {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    max-width: 500px;
+  }
+  
+  /* Style the tweet header */
+  .tweet h4 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .tweet small {
+    color: #777;
+    font-size: 12px;
+  }
+  
+  .tweet p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  

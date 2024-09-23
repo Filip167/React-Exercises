@@ -1,0 +1,25 @@
+.person {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  .person ul {
+    list-style-type: circle;
+  }
+  
+  .person h3 {
+    color: green;
+  }
+  
+  /* You can also add some margin to the Bootstrap components */
+  .alert {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  
