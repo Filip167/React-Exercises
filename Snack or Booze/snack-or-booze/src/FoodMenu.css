@@ -1,0 +1,44 @@
+.card {
+    background-color: rgba(16, 16, 16, 0.8);
+    color: #f0f2f5;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: 'Georgia', serif;
+}
+
+.list-group a {
+    margin-top: 1rem;
+    border-left: 5px dotted;
+    color: white;
+    font-style: italic;
+    font-family: 'Brush Script MT', cursive; /* Cursive font */
+    letter-spacing: 1.5px; /* Add spacing between letters */
+    font-size: 1.2rem; /* Increase font size */
+}
+
+.list-group a:not(:last-of-type) li {
+    border-bottom: none !important;
+}
+
+.list-group a:hover {
+    text-decoration: none;
+    border-left-style: solid;
+    border-left-width: 3px;
+}
+
+.list-group a:hover li {
+    margin-left: 2px;
+}
+
+.list-group-item {
+    background-color: transparent;
+    font-weight: bold;
+    font-family: 'Brush Script MT', cursive; /* Cursive font */
+    color: white; /* Ensure text is white */
+    letter-spacing: 1.5px; /* Add spacing between letters */
+    font-size: 1.2rem; /* Increase font size */
+}
+
+.list-group-item:hover {
+    cursor: pointer;
+}
