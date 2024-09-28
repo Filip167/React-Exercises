@@ -1,0 +1,16 @@
+.CoinFlipCounter {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Coin img {
+  width: 100px;   /* Set the width of the coin */
+  height: 100px;  /* Set the height of the coin */
+  margin-top: 20px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
