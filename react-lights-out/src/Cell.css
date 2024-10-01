@@ -1,0 +1,12 @@
+/* /src/Cell.css */
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: darkgray;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Cell-lit {
+  background-color: white;
+}

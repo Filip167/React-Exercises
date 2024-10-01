@@ -1,0 +1,10 @@
+/* /src/Board.css */
+.Board {
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.Board td {
+  padding: 0;
+  border: 1px solid black;
+}
