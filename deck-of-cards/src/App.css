@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: green;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.cards-container {
+  position: relative;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.cards-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: transform 0.2s ease;
+}
